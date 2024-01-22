@@ -1,0 +1,37 @@
+body {
+	display: flex;
+	font-family: Arial, Helvetica, sans-serif;
+	align-items: center;
+	justify-content: space-around;
+	width: 95vw;
+	color: white;
+	height: 95vh;
+	border-radius: 10px;
+	background-color: rgb(116, 85, 163);
+	/* padding-bottom: 300px; */
+	border: solid black 5px;
+	margin: 0;
+}
+#groceryTitle {
+	font-size: 45px;
+}
+.labelText {
+	font-size: 20px;
+}
+.listItems {
+	color: white;
+	font-size: xx-large;
+}
+input {
+	padding: 5px 20px;
+	font-size: large;
+
+	font-weight: bold;
+	border-radius: 10px;
+}
+.left {
+	width: 50%;
+}
+.right {
+	width: 50%;
+}
